@@ -15,6 +15,10 @@ $ mongod
 
 The server will run on port ```3000```
 
+```
+http://localhost:3000
+```
+
 **Routes** are defined in ```/server/router.js```
 
 API routes for interacting with the database are available on ```/api/{resourceName}```
